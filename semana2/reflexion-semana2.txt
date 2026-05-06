@@ -1,0 +1,9 @@
+La terminal es fundamental para un desarrollador porque permite controlar el proyecto de forma rápida y precisa.
+Con comandos como mkdir, cd y ls puedo crear carpetas, moverme entre directorios y organizar archivos sin depender
+del mouse. Esto ahorra tiempo cuando se trabaja con muchos archivos. Además, herramientas como Git, que usamos
+para guardar versiones del código, funcionan directamente desde la terminal. Saber navegar y organizar con la
+terminal también ayuda a entender cómo funciona realmente el sistema operativo. Un desarrollador que domina la
+terminal puede automatizar tareas, resolver errores y trabajar en servidores remotos donde no hay interfaz gráfica.
+En mi caso, como estudiante de Ingeniería Ambiental que busca enfocarse en tecnología y energías renovables,
+aprender la terminal me prepara para manejar datos, instalar programas y colaborar en proyectos de software.
+Es una habilidad básica que diferencia a un usuario común de un profesional.
