@@ -1,0 +1,8 @@
+Es importante que los proyectos de software mantengan un registro de cambios con Git porque permite tener trazabilidad completa del trabajo.
+Con Git podemos saber exactamente qué se cambió, quién lo hizo y cuándo usando git log.
+Esto evita confusiones cuando varias personas trabajan en el mismo código al mismo tiempo.
+Si cometemos un error, podemos volver fácilmente a una versión anterior que sí funcionaba sin perder todo el proyecto.
+Además, Git funciona como un respaldo seguro porque al hacer push todo queda guardado en GitHub.
+Así no se pierde el trabajo si se daña el computador o el celular donde programamos.
+En Programadores para la Paz, usar Git nos enseña a trabajar de forma profesional y ordenada.
+La trazabilidad genera confianza porque cada cambio queda documentado con un mensaje de commit claro.
