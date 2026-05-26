@@ -1,0 +1,4 @@
+Pregunta 1: Respuesta B - Una dirección que define cómo responde el servidor
+Pregunta 2: Respuesta B - GET, porque es para consultar información
+Pregunta 3: Respuesta A - POST, porque es para enviar datos al servidor  
+Pregunta 4: Respuesta B - Una interfaz que permite que sistemas se comuniquen entre sí
