@@ -1,0 +1,9 @@
+Las APIs permiten que las comunidades se conecten de forma rápida y segura.
+Con una API, los vecinos pueden reportar daños, alertas o emergencias desde una app.
+La información llega organizada a una base de datos central sin perderse en chats.
+Las autoridades pueden recibir esos reportes en tiempo real y priorizar la ayuda.
+También sirve para compartir alertas de clima, cortes de agua o eventos importantes.
+Una API estandariza los datos: todos envían la misma estructura de información.
+Esto evita confusiones y hace que sea más fácil analizar los problemas de la comunidad.
+Además, otros programadores pueden usar esa misma API para crear nuevas herramientas.
+Así la comunidad crece en tecnología y en organización para resolver sus necesidades.
