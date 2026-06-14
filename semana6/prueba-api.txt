@@ -1,11 +1,12 @@
-Al enviar POST a http://localhost:3000/registro con:
+Al enviar POST a http://localhost:3000/incidencia con:
 {
-  "nombre": "Maria",
-  "mensaje": "Hola comunidad"
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta postes sin luz"
 }
+
 El servidor responde:
 {
-  "estado": "Datos recibidos",
-  "nombre": "Maria",
-  "mensaje": "Hola comunidad"
+  "mensaje": "Incidencia registrada",
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta postes sin luz"
 }
