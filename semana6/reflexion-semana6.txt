@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban reportes de forma estructurada porque permite procesar la información de manera automática y rápida. 
+Cuando los datos vienen en formato JSON, el sistema puede identificar fácilmente el tipo de incidencia, la descripción y otros campos. 
+Esto evita errores de interpretación y agiliza la respuesta de las autoridades. 
+Además, facilita el análisis de patrones en la comunidad, como qué problemas se repiten más. 
+Una estructura estándar también permite conectar diferentes sistemas entre sí. 
+Si cada ciudadano envía datos desordenados, sería imposible automatizar la atención. 
+Por eso, usar JSON y rutas POST es clave para construir ciudades inteligentes. 
+Así se mejora la comunicación entre ciudadanos e instituciones.
