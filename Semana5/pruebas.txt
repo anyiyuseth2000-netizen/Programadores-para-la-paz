@@ -1,0 +1,18 @@
+Pruebas realizadas en Postman:
+
+1. GET http://localhost:3000/
+Respuesta: Servidor activo
+Estado: 200 OK
+
+2. GET http://localhost:3000/saludo  
+Respuesta: Hola comunidad
+Estado: 200 OK
+
+3. GET http://localhost:3000/mensaje/Anyi
+Respuesta: Hola Anyi
+Estado: 200 OK
+
+4. POST http://localhost:3000/reporte
+Body enviado: { "mensaje": "Prueba de reporte" }
+Respuesta: { "estado": "Reporte recibido", "mensaje": "Prueba de reporte" }
+Estado: 200 OK
