@@ -1,0 +1,1 @@
+Al hacer GET a /reportes, el servidor devuelve en formato JSON todos los objetos guardados en el array "reportes". Si el array esta vacío, devuelve 
