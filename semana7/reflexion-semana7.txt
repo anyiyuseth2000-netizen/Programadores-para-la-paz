@@ -5,3 +5,5 @@ Esto sirve para que las comunidades reporten problemas de infraestructura o ambi
 Mejora la comunicación entre ciudadanos y autoridades.
 Entendí el uso de express.json() para leer datos JSON.
 Esta práctica me sirve para proyectos de backend con impacto social.
+Durante el desarrollo tuve errores con las rutas, pero logré solucionarlos probando en Postman.
+Concluí que usar Express facilita mucho crear APIs rápidas para proyectos sociales.
