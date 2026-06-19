@@ -1,0 +1,9 @@
+La seguridad digital es fundamental en plataformas comunitarias porque protege la información personal de los usuarios.
+Sin seguridad, los datos pueden ser robados o manipulados por terceros.
+Esto genera desconfianza y aleja a las personas de participar.
+Una plataforma segura permite que la comunidad comparta ideas sin miedo a fraudes.
+El uso de HTTPS y contraseñas fuertes evita el acceso no autorizado.
+Registrar accesos ayuda a detectar actividades sospechosas a tiempo.
+Limitar permisos reduce el riesgo de filtración de información sensible.
+Proteger credenciales garantiza que solo usuarios legítimos accedan al sistema.
+En conclusión, la seguridad digital es la base para que los procesos participativos sean confiables.

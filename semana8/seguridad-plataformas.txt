@@ -1,0 +1,7 @@
+Una plataforma digital comunitaria debe proteger a sus usuarios y su información. Por eso es importante aplicar buenas prácticas de seguridad como:
+
+1. No exponer datos personales de los usuarios.
+2. Proteger credenciales con contraseñas fuertes y autenticación en dos pasos.
+3. Usar conexiones seguras mediante HTTPS y certificados SSL.
+4. Registrar accesos para auditar actividades sospechosas.
+5. Limitar el acceso a información sensible según roles y permisos.
