@@ -1,4 +1,0 @@
-POST: Se envió un reporte tipo "Infraestructura" con descripción "Daño en alumbrado público".
-Respuesta: {"mensaje":"Reporte registrado","reporte":{"id":1,...}}
-
-GET: Al consultar http://localhost:3000/reportes se obtiene un array JSON con los reportes guardados en memoria.

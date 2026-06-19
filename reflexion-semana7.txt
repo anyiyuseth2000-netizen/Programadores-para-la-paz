@@ -1,7 +1,0 @@
-Aprendí a crear una API con Express usando rutas GET y POST.
-Los datos se guardan en un array en memoria mientras el servidor está encendido.
-Si reinicio el servidor, los datos se pierden por no tener base de datos.
-Esto sirve para que las comunidades reporten problemas de infraestructura o ambiente.
-Mejora la comunicación entre ciudadanos y autoridades.
-Entendí el uso de express.json() para leer datos JSON.
-Esta práctica me sirve para proyectos de backend con impacto social.
