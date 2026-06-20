@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas de las comunidades funcionen 
+de manera estable y segura, porque muchas personas dependen de ellas para 
+comunicarse, organizar actividades y acceder a información confiable.
+Si un servidor presenta fallas o no está protegido, la comunidad puede perder 
+la confianza en la herramienta y dejar de usarla. Además, una caída del sistema 
+puede afectar procesos importantes como inscripciones, denuncias o convocatorias.
+Un servidor estable garantiza disponibilidad 24/7. Un servidor seguro protege 
+los datos personales de los usuarios contra accesos no autorizados. 
+Por eso, entender conceptos como puertos, logs y Node.js nos ayuda a mantener 
+la plataforma activa, confiable y transparente para toda la comunidad.

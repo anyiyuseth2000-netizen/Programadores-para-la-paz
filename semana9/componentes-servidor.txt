@@ -1,0 +1,9 @@
+Sistema operativo: Es la base del computador. Gestiona el hardware y permite que Node.js y otros programas se ejecuten. Sin él, el servidor no podría funcionar.
+
+Node.js: Es el entorno de ejecución que permite correr JavaScript fuera del navegador. Interpreta server.js y gestiona las solicitudes HTTP.
+
+Aplicación server.js: Es el código que creamos con Express. Define las rutas /, /estado y la lógica que responde a los usuarios.
+
+Puerto: Es el canal 3000 por donde el servidor escucha las solicitudes. Permite que el navegador se conecte a nuestra aplicación local.
+
+Logs: Son los mensajes que aparecen en la terminal con console.log. Sirven para monitorear si el servidor inició bien y detectar errores.
