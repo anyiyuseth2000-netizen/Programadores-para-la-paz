@@ -1,0 +1,22 @@
+PREGUNTA 9 - DISEÑAR UNA AUTOMATIZACION SIMPLE CON N8N Y TELEGRAM
+
+FLUJ0 DE AUTOMATIZACION:
+
+1. ¿QUE EVENTO ACTIVA EL FLUJO?
+El flujo se activa cuando un ciudadano registra un nuevo reporte de daño en el sistema. Por ejemplo: alumbrado dañado, hueco en la vía, o basura acumulada.
+
+2. ¿QUE MENSAJE SE ENVIARIA A TELEGRAM?
+El bot de n8n enviaría este mensaje al grupo de Telegram de los líderes:
+"ALERTA: Nuevo reporte recibido
+Tipo: Daño en alumbrado público
+Barrio: El Poblado
+Fecha: 13/07/2025
+Revisar en el sistema para asignar responsable."
+
+3. ¿QUE INFORMACION NO DEBERIA ENVIARSE POR SEGURIDAD?
+Por seguridad NO se debe enviar por Telegram:
+- Nombres completos del ciudadano que reporta
+- Número de documento de identidad
+- Dirección exacta o teléfono
+- Fotos con placas o rostros visibles
+Solo se envía el tipo de problema, barrio y fecha para proteger la identidad de quien denuncia.

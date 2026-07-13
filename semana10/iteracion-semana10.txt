@@ -1,0 +1,12 @@
+1. ¿QUE 2 TAREAS DEL BACKLOG HARIAS PRIMERO?
+Tarea 1: Como vecino quiero reportar un daño en el alumbrado público para que la alcaldía lo repare y evitar robos en la noche.
+Tarea 2: Como líder comunitario quiero ver todos los reportes de mi barrio en un mapa para identificar las zonas con más problemas.
+
+2. ¿POR QUE SON LAS MAS IMPORTANTES?
+Son las más importantes porque son la base del proyecto. La primera permite recolectar la información y la segunda permite visualizarla. Sin estas 2 funciones el sistema de veeduría no sirve, porque no habría datos que mostrar ni dónde.
+
+3. ¿QUE SIGNIFICA PARA MI QUE UNA TAREA ESTE "TERMINADA"?
+Para mí una tarea está terminada cuando cumple con estos 3 criterios:
+- Funciona: El usuario puede usarla sin que se caiga
+- Fue probada: Se verificó que guarda los datos correctamente 
+- Quedó registrada en Git: El código está subido al repositorio con commit

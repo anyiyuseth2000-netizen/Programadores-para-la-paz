@@ -1,0 +1,14 @@
+PRIORIDAD 1 - ALTA
+Como vecino quiero reportar un daño en el alumbrado público para que la alcaldía lo repare y evitar robos en la noche.
+
+PRIORIDAD 2 - ALTA
+Como líder comunitario quiero ver todos los reportes de mi barrio en un mapa para identificar las zonas con más problemas.
+
+PRIORIDAD 3 - MEDIA
+Como ciudadano quiero adjuntar fotos y videos a mi denuncia para tener más pruebas de la situación.
+
+PRIORIDAD 4 - MEDIA
+Como funcionario público quiero cambiar el estado de un reporte a "en proceso" o "resuelto" para informar a la comunidad.
+
+PRIORIDAD 5 - BAJA
+Como veedor ciudadano quiero descargar un Excel con todos los casos del mes para hacer auditoría social.
