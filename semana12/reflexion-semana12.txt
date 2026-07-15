@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología es una herramienta muy importante para fortalecer la participación ciudadana.
+Con plataformas simples podemos organizar a la comunidad y hacer visibles los problemas que nos afectan.
+Aprendí a conectar un backend con una base de datos para guardar información de causas y apoyos.
+También entendí cómo generar documentos automáticos que le dan formalidad a las peticiones ciudadanas.
+Me pareció clave aprender sobre seguridad y no almacenar datos sensibles como cédulas o teléfonos.
+El uso de herramientas como n8n o Telegram para automatizar notificaciones hace todo más rápido y transparente.
+Con lo aprendido puedo crear soluciones que ayuden a mi comunidad a organizarse y alzar su voz.
+La tecnología no reemplaza la acción de las personas, pero sí la potencia y la hace más eficiente.
+Este curso me mostró que programar también sirve para aportar a la paz y al cambio social.
