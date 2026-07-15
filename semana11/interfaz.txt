@@ -1,0 +1,6 @@
+La interfaz básica debe permitir al usuario:
+1. Ver la lista de causas comunitarias registradas.
+2. Registrar una nueva causa con título y descripción.
+3. Ver los detalles de cada causa y los apoyos que ha recibido.
+4. Tener un botón de login para que solo usuarios registrados puedan crear o apoyar causas.
+La interfaz debe ser simple, clara y fácil de usar para cualquier persona de la comunidad.

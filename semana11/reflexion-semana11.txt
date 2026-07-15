@@ -1,0 +1,9 @@
+Una plataforma de participación ciudadana debe tener base de datos para guardar toda la información de forma organizada y segura.
+La autenticación de usuarios es necesaria para identificar quién hace cada reporte y evitar que personas no registradas hagan cambios.
+La protección de información es clave para cuidar datos personales como documentos, direcciones y teléfonos de la comunidad.
+Sin base de datos no se podría llevar un registro de los problemas y soluciones.
+Sin autenticación cualquiera podría crear, editar o eliminar reportes sin control.
+Sin protección se pondrían en riesgo los datos sensibles de los ciudadanos.
+Tener estas 3 partes juntas hace que la plataforma sea confiable y transparente.
+Así los usuarios se sienten seguros de participar y compartir su información.
+Por eso son fundamentales para que la plataforma funcione correctamente y cumpla su objetivo social.

@@ -1,0 +1,6 @@
+El login es el proceso donde el usuario ingresa con correo y contraseña para identificarse en la aplicación.
+Esto sirve para saber quién es la persona que está usando la plataforma y qué permisos tiene.
+Algunas rutas deben estar protegidas porque manejan información privada o permiten hacer cambios importantes.
+Si no se protegen, cualquier persona podría ver datos o modificar registros sin autorización.
+Tampoco se debe mostrar públicamente información como contraseñas, documentos, direcciones, teléfonos o claves de API.
+Cuidar estos datos garantiza la seguridad y privacidad de toda la comunidad.
