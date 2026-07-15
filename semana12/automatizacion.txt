@@ -1,0 +1,5 @@
+Evento: Una causa alcanza 100 apoyos registrados en la plataforma.
+
+Mensaje: "Alerta: La causa '[titulo de la causa]' ha alcanzado 100 apoyos. Ya se puede generar el documento PDF formal para presentarlo."
+
+Información que no debe enviarse: Nombres, correos, cédulas, teléfonos y direcciones de las personas que apoyaron, para proteger sus datos personales y su privacidad.

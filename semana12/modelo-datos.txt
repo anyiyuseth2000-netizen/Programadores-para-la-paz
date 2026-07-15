@@ -1,0 +1,7 @@
+ENTIDAD: Causa
+Campos: id, titulo, descripcion, fecha
+Sirve para: Guardar la información de cada petición o problema que se registra en la plataforma. Aquí se guarda el título y el detalle de la causa.
+
+ENTIDAD: Apoyo
+Campos: id, causa_id, nombre, fecha
+Sirve para: Registrar a las personas que apoyan una causa. El campo causa_id conecta cada apoyo con la causa correspondiente.
